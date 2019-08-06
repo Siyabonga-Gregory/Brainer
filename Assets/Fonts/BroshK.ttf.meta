@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3df3eb357c1462e4c8344a26a202b276
+timeCreated: 1538387358
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BroshK
+  fontNames:
+  - BroshK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
